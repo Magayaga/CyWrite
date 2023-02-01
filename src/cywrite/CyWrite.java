@@ -4,8 +4,8 @@ package cywrite;
  *
  * CYWRITE - SIMPLE TEXT EDITOR
  * @author Cyril John Magayaga
- * @latestReleaseDate August 20, 2022
- * @latestVersionNumber v1.0-preview0
+ * @latestReleaseDate February 2, 2023
+ * @latestVersionNumber v1.0-preview1
  * 
  */
 import java.awt.*;
